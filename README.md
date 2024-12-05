@@ -36,7 +36,7 @@
 ## 🤝 Connect with Me:
 - **Email:** [szymonkaput123@gmail.com](mailto:szymonkaput123@gmail.com)
 - **GitHub:** [szymkap92](https://github.com/szymkap92)
--**Linkedin:** [Szymon Kaput](https://www.linkedin.com/in/szymon-kaput)
+- **Linkedin:** [Szymon Kaput](https://www.linkedin.com/in/szymon-kaput)
 
 ---
 
