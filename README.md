@@ -1,10 +1,3 @@
-
-
-<!--
-**szymkap92/szymkap92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # Hi there! 👋 I'm Szymon
 
 🚀 Aspiring full-stack developer passionate about creating modern, scalable applications!  
@@ -49,4 +42,4 @@ Here are some ideas to get you started:
 ## ⚡ Fun Fact:
 I balance my career in **engineering** with my passion for becoming a **software developer**. 🚀
 
--->
+
