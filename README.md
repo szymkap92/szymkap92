@@ -6,10 +6,11 @@
 ---
 
 ## 💻 Technologies I Work With:
-- **Programming Languages:** C#, JavaScript
+- **Programming Languages:** C#, JavaScript, PHP
+- **Front-end: HTML, CSS, SCSS (Bootstrap, Tailwind)
 - **Databases:** SQL Server, Microsoft SQL
 - **Tools & Platforms:** Docker, Microsoft Azure, Power BI, Git, Visual Studio, VSCode, Linux
-- **Frameworks:** .NET, Entity Framework Core
+- **Frameworks:** .NET, Entity Framework Core, React, Laravel
 
 ---
 
@@ -19,10 +20,10 @@
 ---
 
 ## 🎯 About Me:
-- 🌍 I work at Audi while pursuing my passion for programming.
-- 💡 I’m a **5th-semester Computer Science student**, specializing in software development.
+- 🌍 I work at Audi AG while pursuing my passion for programming.
+- 💡 I’m a **5th-semester Computer Science student**, specializing in software development and CyberSecurity.
 - 🏋️‍♂️ In my free time, I enjoy **working out**, playing chess, and exploring tech books.
-- 📖 Favorite authors: **Stephen King**, **Anne Rice**, **JRR.Tolkien**.
+- 📖 Favorite authors: **Stephen King**, **Anne Rice**, **J.R.R. Tolkien**, **Andrzej Sapkowski**.
 
 ---
 
@@ -30,6 +31,11 @@
 ![Szymon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=szymkap92&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=szymkap92&layout=compact&theme=radical)
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=szymkap92&theme=radical)
+
+![Most Used Repositories](https://github-readme-stats.vercel.app/api/pin/?username=szymkap92&repo=<repo-name>&theme=radical)
+
 
 ---
 
