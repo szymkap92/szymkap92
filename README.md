@@ -7,9 +7,11 @@
 
 ## 💻 Technologies I Work With:
 - **Programming Languages:** C#, JavaScript, PHP
-- **Front-end: HTML, CSS, SCSS (Bootstrap, Tailwind)
+- **Front-end:** HTML, CSS, SCSS (Bootstrap, Tailwind)
 - **Databases:** SQL Server, Microsoft SQL
-- **Tools & Platforms:** Docker, Microsoft Azure, Power BI, Git, Visual Studio, VSCode, Linux
+- **Tools & Platforms:** Docker, Microsoft Azure, Power BI, Excel, Git, Visual Studio, VSCode, Linux
+- **Automation & Scripting:** Bash, PowerShell
+- **Project Management:** Trello, Scrum methodologies
 - **Frameworks:** .NET, Entity Framework Core, React, Laravel
 
 ---
@@ -32,10 +34,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=szymkap92&layout=compact&theme=radical)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=szymkap92&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=szymkap92&theme=radical)
 
-![Most Used Repositories](https://github-readme-stats.vercel.app/api/pin/?username=szymkap92&repo=<repo-name>&theme=radical)
-
+![Most Used Repositories](https://github-readme-stats.vercel.app/api/pin/?username=szymkap92&repo=DiveCenter&theme=radical)
 
 ---
 
@@ -48,5 +49,3 @@
 
 ## ⚡ Fun Fact:
 I balance my career in **engineering** with my passion for becoming a **software developer**. 🚀
-
-
