@@ -50,7 +50,5 @@
 ## ⚡ Fun Fact:
 I balance my career in **engineering** with my passion for becoming a **software developer**. 🚀
 
-## 🐍 Snake Animation
 
-![Snake animation](https://github.com/szymkap92/szymkap92/blob/output/github-contribution-grid-snake.svg)
 
