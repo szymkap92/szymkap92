@@ -9,7 +9,7 @@
 - **Programming Languages:** C#, JavaScript, PHP
 - **Front-end:** HTML, CSS, SCSS (Bootstrap, Tailwind)
 - **Databases:** SQL Server, Microsoft SQL
-- **Tools & Platforms:** Docker, Microsoft Azure, Power BI, Excel, Git, Visual Studio, VSCode, Linux
+- **Tools & Platforms:** Docker, Microsoft Azure, Power BI, Excel, Git, Visual Studio, VSCode, Linux, WordPress
 - **Automation & Scripting:** Bash, PowerShell
 - **Project Management:** Trello, Scrum methodologies
 - **Frameworks:** .NET, Entity Framework Core, React, Laravel
