@@ -39,6 +39,9 @@
 
 ![Most Used Repositories](https://github-readme-stats.vercel.app/api/pin/?username=szymkap92&repo=DiveCenter&theme=radical)
 ---
+📈 Contribution Graph:
+<div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=szymkap92&theme=radical&hide_border=true" alt="Contribution Graph" /> </div>
+---
 
 ## 🤝 Connect with Me:
 - **📧 Email:** [szymonkaput123@gmail.com](mailto:szymonkaput123@gmail.com)
