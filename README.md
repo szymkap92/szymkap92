@@ -6,9 +6,9 @@
 ---
 
 ## 💻 Technologies I Work With:
-- **Programming Languages:** C#, JavaScript, PHP
+- **Programming Languages:** C#, JavaScript, PHP, Python (Basic)
 - **Front-end:** HTML, CSS, SCSS, Wordpress  (Bootstrap, Tailwind)
-- **Frameworks:** .NET, Entity Framework Core, Laravel,React, Vue JS
+- **Frameworks:** .NET, Entity Framework Core, Laravel, React, Vue JS
 - **Databases:** SQL Server, Microsoft SQL
 - **Tools & Platforms:** Docker, Microsoft Azure, Postman, Power BI, Excel, Git, Visual Studio, VSCode, Linux, WordPress (Theme/Plugin Development)
 - **Automation & Scripting:** Bash, PowerShell
