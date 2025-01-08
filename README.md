@@ -6,13 +6,13 @@
 ---
 
 ## 💻 Technologies I Work With:
-- **Programming Languages:** C#, JavaScript, PHP, Python (Basic)
-- **Front-end:** HTML, CSS, SCSS, Wordpress  (Bootstrap, Tailwind)
-- **Frameworks:** .NET, Entity Framework Core, Laravel, React, Vue JS
-- **Databases:** SQL Server, Microsoft SQL
-- **Tools & Platforms:** Docker, Microsoft Azure, Postman, Power BI, Excel, Git, Visual Studio, VSCode, Linux, WordPress (Theme/Plugin Development)
-- **Automation & Scripting:** Bash, PowerShell
-- **Project Management:** Trello, Scrum methodologies
+- **⚙️Programming Languages:** C#, JavaScript, PHP, Python (Basic)
+- **🌐 Front-end:** HTML, CSS, SCSS, Wordpress  (Bootstrap, Tailwind)
+- **🔧Frameworks:** .NET, Entity Framework Core, Laravel, React, Vue JS
+- **📊 Databases:** SQL Server, Microsoft SQL
+- **🛠️Tools & Platforms:** Docker, Microsoft Azure, Postman, Power BI, Excel, VBA,  Git, Visual Studio, VSCode, Linux, WordPress (Theme/Plugin Development)
+- **🛡️ Automation & Scripting:** Bash, PowerShell
+- **📋 Project Management:** Trello, Scrum methodologies
 
 
 ---
@@ -24,7 +24,7 @@
 
 ## 🎯 About Me:
 - 🌍 I work at Audi AG while pursuing my passion for programming.
-- 💡 I’m a **5th-semester Computer Science student**, specializing in CyberSecurity.
+- 🎓 I’m a **5th-semester Computer Science student**, specializing in CyberSecurity.
 - 🏋️‍♂️ In my free time, I enjoy **working out**, playing chess, and exploring tech books.
 - 📖 Favorite authors: **Stephen King**, **Anne Rice**, **J.R.R. Tolkien**, **Andrzej Sapkowski**.
 
@@ -42,9 +42,9 @@
 ---
 
 ## 🤝 Connect with Me:
-- **Email:** [szymonkaput123@gmail.com](mailto:szymonkaput123@gmail.com)
-- **GitHub:** [szymkap92](https://github.com/szymkap92)
-- **Linkedin:** [Szymon Kaput](https://www.linkedin.com/in/szymon-kaput)
+- **📧 Email:** [szymonkaput123@gmail.com](mailto:szymonkaput123@gmail.com)
+- **🌐 GitHub:** [szymkap92](https://github.com/szymkap92)
+- **💼Linkedin:** [Szymon Kaput](https://www.linkedin.com/in/szymon-kaput)
 
 ---
 
