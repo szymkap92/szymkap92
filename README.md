@@ -1,7 +1,9 @@
 # Hi there! 👋 I'm Szymon
 
 🚀 Aspiring full-stack developer passionate about creating modern, scalable applications!  
-📚 Currently focusing on learning **C#**, **SQL**, and **cloud technologies**.  
+📚 Currently focusing on learning **C#**, **SQL**, and **cloud technologies**.
+🧠 Mindset: Every mistake is a chance to learn and grow.
+ 
 
 ---
 
