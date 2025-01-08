@@ -24,7 +24,7 @@
 
 ## 🎯 About Me:
 - 🌍 I work at Audi AG while pursuing my passion for programming.
-- 💡 I’m a **5th-semester Computer Science student**, specializing in software development and CyberSecurity.
+- 💡 I’m a **5th-semester Computer Science student**, specializing in CyberSecurity.
 - 🏋️‍♂️ In my free time, I enjoy **working out**, playing chess, and exploring tech books.
 - 📖 Favorite authors: **Stephen King**, **Anne Rice**, **J.R.R. Tolkien**, **Andrzej Sapkowski**.
 
