@@ -39,8 +39,12 @@
 
 ![Most Used Repositories](https://github-readme-stats.vercel.app/api/pin/?username=szymkap92&repo=DiveCenter&theme=radical)
 ---
-📈 Contribution Graph:
-<div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=szymkap92&theme=radical&hide_border=true" alt="Contribution Graph" /> </div>
+
+##📌 Key Strengths:
+
+**🔍 Attention to Detail:** My work ensures clean and maintainable code.
+**💡 Problem-Solving:** Skilled at breaking down complex problems into simple solutions.
+**🤝 Team Player:** Collaborative and open to feedback to improve together.
 ---
 
 ## 🤝 Connect with Me:
