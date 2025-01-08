@@ -47,6 +47,13 @@
 - **🤝 Team Player:** Collaborative and open to feedback to improve together.
 ---
 
+## 🚀 Future Goals:
+
+- 🏆 Build an open-source project for developers.
+- 🌍 Contribute to global, impactful software solutions.
+- 📚 Obtain advanced certifications in cloud computing and database management.
+---
+
 ## 🤝 Connect with Me:
 - **📧 Email:** [szymonkaput123@gmail.com](mailto:szymonkaput123@gmail.com)
 - **🌐 GitHub:** [szymkap92](https://github.com/szymkap92)
