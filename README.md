@@ -40,11 +40,11 @@
 ![Most Used Repositories](https://github-readme-stats.vercel.app/api/pin/?username=szymkap92&repo=DiveCenter&theme=radical)
 ---
 
-##📌 Key Strengths:
+## 📌 Key Strengths:
 
-**🔍 Attention to Detail:** My work ensures clean and maintainable code.
-**💡 Problem-Solving:** Skilled at breaking down complex problems into simple solutions.
-**🤝 Team Player:** Collaborative and open to feedback to improve together.
+- **🔍 Attention to Detail:** My work ensures clean and maintainable code.
+- **💡 Problem-Solving:** Skilled at breaking down complex problems into simple solutions.
+- **🤝 Team Player:** Collaborative and open to feedback to improve together.
 ---
 
 ## 🤝 Connect with Me:
