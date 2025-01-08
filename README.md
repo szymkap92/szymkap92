@@ -31,7 +31,13 @@
 ---
 
 ## 📊 GitHub Stats:
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=szymkap92&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szymkap92&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=szymkap92&theme=radical&hide_border=true" alt="GitHub Streak" /> <img src="https://github-profile-trophy.vercel.app/?username=szymkap92&theme=radical&no-frame=true&row=1&column=5" alt="GitHub Achievements" /> </div>
+![Szymon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=szymkap92&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=szymkap92&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=szymkap92&theme=radical)
+
+![Most Used Repositories](https://github-readme-stats.vercel.app/api/pin/?username=szymkap92&repo=DiveCenter&theme=radical)
 ---
 
 ## 🤝 Connect with Me:
