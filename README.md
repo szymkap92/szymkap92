@@ -35,8 +35,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=szymkap92&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=szymkap92&theme=radical)
-
 ![Most Used Repositories](https://github-readme-stats.vercel.app/api/pin/?username=szymkap92&repo=DiveCenter&theme=radical)
 ---
 
