@@ -14,6 +14,7 @@
 - **📊 Databases:** SQL Server, Microsoft SQL
 - **🛠️Tools & Platforms:** Docker, Microsoft Azure, Postman, Power BI, Excel, VBA,  Git, Visual Studio, VSCode, Linux, WordPress (Theme/Plugin Development)
 - **🛡️ Automation & Scripting:** Bash, PowerShell
+- **🌐 Networking & Systems: Computer Networks, Linux Administration
 - **📋 Project Management:** Trello, Scrum methodologies
 
 
