@@ -37,6 +37,7 @@
 ![Szymon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=szymkap92&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=szymkap92&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=szymkap92&layout=compact&theme=radical)
 
 ![Most Used Repositories](https://github-readme-stats.vercel.app/api/pin/?username=szymkap92&repo=DiveCenter&theme=radical)
 ---
